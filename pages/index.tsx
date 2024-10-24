@@ -15,7 +15,7 @@ export default function IndexPage() {
       <section className="flex flex-col items-center justify-center gap-4 py-1 md:py-3">
         <div className="">
           <Snippet hideCopyButton hideSymbol variant="bordered">
-            <span>Registrese para obtener su turno</span>
+            <span className="text-lg">Registrese para obtener su turno</span>
           </Snippet>
         </div>
         <div className="flex gap-3">
